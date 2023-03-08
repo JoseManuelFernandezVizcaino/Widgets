@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">USERS</string>
+
+    <string-array name="opciones">
+        <item>1, I don´t like</item>
+        <item>2, not I don</item>
+        <item>3, accept</item>
+        <item>4, I like much</item>
+        <item>5, very functional</item>
+    </string-array>
+</resources>
